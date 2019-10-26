@@ -422,7 +422,7 @@
       },
       "yaxes": [
         {
-          "format": "ms",
+          "format": "s",
           "label": "",
           "logBase": 1,
           "max": null,
@@ -435,7 +435,7 @@
           "logBase": 1,
           "max": null,
           "min": null,
-          "show": true
+          "show": false
         }
       ],
       "yaxis": {
@@ -820,7 +820,7 @@
     ]
   },
   "timezone": "",
-  "title": "Validators2",
-  "uid": "ybpvw2nWz2",
+  "title": "Validators",
+  "uid": "validators",
   "version": 4
 }
